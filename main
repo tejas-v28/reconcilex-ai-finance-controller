@@ -1,0 +1,3 @@
+cd /
+git remote add origin https://github.com/YOUR_USERNAME/reconcilex-ai-finance-controller.git
+git push -u origin main
